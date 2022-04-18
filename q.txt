@@ -1,0 +1,8 @@
+// skip Monday 
+Microsoft 
+09:30 - 17:00
+    {"_id":"614ca3e73b8472b63ad00734","conv_id":"a:11VW9zlH8ahfF3zM9Od1CfWiAYYVWLJKJw79SBzRFaV-hhwG_1O5sD71GWYM4FTJ-Yi5KsTfYm70k8PAiuIeiYDQI86dNrl07M2l5W6DnLZ4w8mAiRxsLzzultK8e_OTd","user":{"name":"Magnell, Mattias"},"conversation":{"tenantId":"33dab507-5210-4075-805b-f2717d8cfa74"}},
+
+// skip Wednesday morning 
+    {"_id":"62307d9c3b8472b63ad007e4","conv_id":"a:1RAOfxaTiwcsIZAhKidonAu9CSSE0vX3l5tkp5BYkPJkBYJq5q1sTkaw59kEazv5pp7172rQHyn7fRi8Ts3zDoopeMhUJXIlG4XCbrGKkfqPh-4XfSz7vb5pGgpWTHUvk","user":{"name":"Toni Muhonen"},"conversation":{"tenantId":"261eaa3f-142c-43d4-9b9e-ed3ea62fafa2"}},
+10:00-17:00
